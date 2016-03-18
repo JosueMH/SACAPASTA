@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">SACAPASTA</string>
+
+    <string name="name_cajero1">cajero1</string>
+    <string name="name_cajero2">cajero2</string>
+    <string name="name_cajero3">cajero3</string>
+    <string name="name_cajero4">cajero4</string>
+    <string name="name_cajero5">cajero5</string>
+    <string name="name_cajero6">cajero6</string>
+    <string name="name_cajero7">cajero7</string>
+    <string name="name_cajero8">cajero8</string>
+    <string name="name_cajero9">cajero9</string>
+    <string name="name_cajero10">cajero10</string>
+
+    <string name="calle_cajero1">c/Colombia</string>
+    <string name="calle_cajero2">AVDA Argentina</string>
+    <string name="calle_cajero3">c/Ecuador</string>
+    <string name="calle_cajero4">c/Cuba</string>
+    <string name="calle_cajero5">AVDA Marqués de San Esteban</string>
+    <string name="calle_cajero6">c/Las Camelias</string>
+    <string name="calle_cajero7">c/Magnolia tralari</string>
+    <string name="calle_cajero8">Plaza del Carmen</string>
+    <string name="calle_cajero9">Callejón Diagol</string>
+    <string name="calle_cajero10">Novigrado</string>
 </resources>

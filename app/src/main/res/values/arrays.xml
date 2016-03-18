@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cajeros_nombre">
+        <item name="name1">@string/name_cajero1</item>
+        <item name="name2">@string/name_cajero2</item>
+        <item name="name3">@string/name_cajero3</item>
+        <item name="name4">@string/name_cajero4</item>
+        <item name="name5">@string/name_cajero5</item>
+        <item name="name6">@string/name_cajero6</item>
+        <item name="name7">@string/name_cajero7</item>
+        <item name="name8">@string/name_cajero8</item>
+        <item name="name9">@string/name_cajero9</item>
+        <item name="name10">@string/name_cajero10</item>
+    </string-array>
+
+    <string-array name="cajeros_calle">
+        <item name="calle1">@string/calle_cajero1</item>
+        <item name="calle2">@string/calle_cajero2</item>
+        <item name="calle3">@string/calle_cajero3</item>
+        <item name="calle4">@string/calle_cajero4</item>
+        <item name="calle5">@string/calle_cajero5</item>
+        <item name="calle6">@string/calle_cajero6</item>
+        <item name="calle7">@string/calle_cajero7</item>
+        <item name="calle8">@string/calle_cajero8</item>
+        <item name="calle9">@string/calle_cajero9</item>
+        <item name="calle10">@string/calle_cajero10</item>
+    </string-array>
+
+    <string-array name="cajeros_tipo">
+        <item name="tipo1">1</item>
+        <item name="tipo2">2</item>
+        <item name="tipo3">2</item>
+        <item name="tipo4">2</item>
+        <item name="tipo5">1</item>
+        <item name="tipo6">2</item>
+        <item name="tipo7">1</item>
+        <item name="tipo8">1</item>
+        <item name="tipo9">2</item>
+        <item name="tipo10">2</item>
+    </string-array>
+
+
+</resources>
