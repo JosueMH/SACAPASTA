@@ -27,16 +27,16 @@
     </string-array>
 
     <string-array name="cajeros_tipo">
-        <item name="tipo1">1</item>
-        <item name="tipo2">2</item>
-        <item name="tipo3">2</item>
-        <item name="tipo4">2</item>
-        <item name="tipo5">1</item>
-        <item name="tipo6">2</item>
-        <item name="tipo7">1</item>
-        <item name="tipo8">1</item>
-        <item name="tipo9">2</item>
-        <item name="tipo10">2</item>
+        <item name="tipo1">@string/tipo_cajero_oficina</item>
+        <item name="tipo2">@string/tipo_cajero_automatico</item>
+        <item name="tipo3">@string/tipo_cajero_automatico</item>
+        <item name="tipo4">@string/tipo_cajero_automatico</item>
+        <item name="tipo5">@string/tipo_cajero_oficina</item>
+        <item name="tipo6">@string/tipo_cajero_automatico</item>
+        <item name="tipo7">@string/tipo_cajero_oficina</item>
+        <item name="tipo8">@string/tipo_cajero_oficina</item>
+        <item name="tipo9">@string/tipo_cajero_automatico</item>
+        <item name="tipo10">@string/tipo_cajero_automatico</item>
     </string-array>
 
 

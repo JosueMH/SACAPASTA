@@ -22,4 +22,7 @@
     <string name="calle_cajero8">Plaza del Carmen</string>
     <string name="calle_cajero9">Callejón Diagol</string>
     <string name="calle_cajero10">Novigrado</string>
+
+    <string name="tipo_cajero_oficina">oficina</string>
+    <string name="tipo_cajero_automatico">automatico</string>
 </resources>
